@@ -1,6 +1,3 @@
-# bot
-
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A general purpose Github Bot
 
 ## Setup
 
@@ -30,4 +27,5 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 Tech Penguin <techpenguineer@gmail.com>
+ISC© 2021 Tech Penguin <techpenguineer@gmail.com>
+
