@@ -28,4 +28,3 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 ISC© 2021 Tech Penguin <techpenguineer@gmail.com>
-
