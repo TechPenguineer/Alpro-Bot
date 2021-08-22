@@ -30,4 +30,5 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 Tech Penguin <techpenguineer@gmail.com>
+ISC© 2021 Tech Penguin <techpenguineer@gmail.com>
+
