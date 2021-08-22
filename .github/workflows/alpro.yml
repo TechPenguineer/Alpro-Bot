@@ -10,7 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Test install node_modules
+        run: npm i
       - name: Check if test npm command works
         run: npm run test
       - name: Check build status
